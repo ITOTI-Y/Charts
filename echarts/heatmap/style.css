@@ -1,0 +1,19 @@
+/* 对任何元素设置属性 */
+* {
+    margin: 0;/* 外边距0 */
+    padding: 0;/* 内边距0 */
+}
+/* #表示对id为chart-container的元素设置属性 */
+#chart-container {
+    position: relative;
+    height: 100vh;/*当没有内容时100%不会显示，而100vh会显示窗口*/
+    overflow: hidden;/*超出元素框时内容会被隐藏，且不显示滚动条*/
+}
+.biaoti{
+    font-family: 'Times New Roman';
+    font-size: 1.5em;
+    font-weight: bold;
+    width:100%;
+    margin: auto;
+    background-color: #dbdbdb;
+}

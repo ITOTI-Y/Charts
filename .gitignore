@@ -1,0 +1,13 @@
+Python.code-workspace
+.vscode/
+.virtual_documents/
+.ipynb_checkpoints/
+d2l-zh/
+DeepLearning/
+node/
+.idea/
+__pycache__/
+yolo/
+*.csv
+*.xlsx
+*.xls
