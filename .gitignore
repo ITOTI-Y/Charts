@@ -12,3 +12,4 @@ yolo/
 *.csv
 *.xlsx
 *.xls
+.data/
